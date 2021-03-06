@@ -67,7 +67,7 @@ button {
 	height: auto;
 	position: absolute;
 	font-size: 2em;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Ubuntu', sans-serif;
 }
 
 * {
@@ -80,7 +80,7 @@ button {
 	opacity: 0%;
 	transition: opacity 0.5s ease;
 	font-size: large;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Ubuntu', sans-serif;
 }
 
 img {
@@ -95,7 +95,7 @@ img {
 
 .options {
 	font-size: 2em;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Ubuntu', sans-serif;
 	display: flex;
 	align-items: center;
 	position: relative;
@@ -116,14 +116,14 @@ img {
 
 #options-help-cypher {
 	font-size: 1em;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Ubuntu', sans-serif;
 	padding: 1em;
 	display: none;
 }
 
 #options-help-cheating {
 	font-size: 1em;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Ubuntu', sans-serif;
 	padding: 1em;
 	display: none;
 }
